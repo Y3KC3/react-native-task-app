@@ -1,0 +1,4 @@
+para que pueda ejecutarse nodemon src --exec babel-node
+
+lo necesitaremos poner babel como una variable global asi
+npm i -g @babel/node
